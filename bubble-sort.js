@@ -1,5 +1,8 @@
-// bubble sort 
 /* 
+    Bubble Sort 
+
+    summary of text in A Common-Sense Guide to Data Structures and Algorithms by Jay Wengrow
+
     for each pass, push the highest number to the end of the list (highestIndex) 
     by comparing and sorting adjacent pairs until there are no swaps.
 */
@@ -23,5 +26,4 @@ function bubbleSort(arr){
     return arr
 }
 
-// TODO write better tests for bubble sort 
 console.log('BubbleSort   ', bubbleSort([9,8,7,6,5,4,3,2,1,0,-1,-2]))

@@ -1,3 +1,5 @@
 * Algorithms and Data Structures
-The intent of this repo is to take implement examples in JavaScript while completing [[https://pragprog.com/book/jwdsal/a-common-sense-guide-to-data-structures-and-algorithms][A Common-Sense Guide to Data Structures and Algorithms]] by Jay Wengrow.  
+Here you will find various examples of algorithms and data structures implemented in JavaScript...
+
+The code here is my notes on ideas from [[https://pragprog.com/book/jwdsal/a-common-sense-guide-to-data-structures-and-algorithms][A Common-Sense Guide to Data Structures and Algorithms]] by Jay Wengrow if not otherwise
 

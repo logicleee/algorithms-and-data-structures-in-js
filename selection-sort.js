@@ -1,5 +1,8 @@
 // selection sort 
+// summary of text in A Common-Sense Guide to Data Structures and Algorithms by Jay Wengrow
+
 // for each pass, find the lowest value and put it at index 0 of the pass
+
 function selectionSort(arr){
     let lowestIndex
     const swapInArray = (arr, i, j) => [arr[i], arr[j]] = [arr[j], arr[i]]

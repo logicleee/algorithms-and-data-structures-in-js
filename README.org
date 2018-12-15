@@ -1,5 +1,7 @@
 * Algorithms and Data Structures
 Here you will find various examples of algorithms and data structures implemented in JavaScript...
 
-The code here is my notes on ideas from [[https://pragprog.com/book/jwdsal/a-common-sense-guide-to-data-structures-and-algorithms][A Common-Sense Guide to Data Structures and Algorithms]] by Jay Wengrow if not otherwise
+The code here represents my notes on ideas from [[https://pragprog.com/book/jwdsal/a-common-sense-guide-to-data-structures-and-algorithms][A Common-Sense Guide to Data Structures and Algorithms]] by Jay Wengrow if not otherwise noted.
 
+* IMPORTANT
+No warranties expressed or implied...use these examples at your own risk.

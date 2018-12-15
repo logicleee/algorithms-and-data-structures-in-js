@@ -1,9 +1,9 @@
-/* 
-    Bubble Sort 
+/*
+    Bubble Sort
 
     summary of text in A Common-Sense Guide to Data Structures and Algorithms by Jay Wengrow
 
-    for each pass, push the highest number to the end of the list (highestIndex) 
+    for each pass, push the highest number to the end of the list (highestIndex)
     by comparing and sorting adjacent pairs until there are no swaps.
 */
 

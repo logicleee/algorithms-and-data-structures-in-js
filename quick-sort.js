@@ -9,9 +9,9 @@
 
 */
 
-function quickSort(arr){
+function quickSortArray(arr) {
 
-    const swapInArray = (arr, i, j) => [arr[i], arr[j]] = [arr[j], arr[i]]
+    const swapInArr = (arr, i, j) => [arr[i], arr[j]] = [arr[j], arr[i]]
 
     function partition(leftIndex, rightIndex) {
         let pivotIndex = rightIndex
@@ -29,11 +29,11 @@ function quickSort(arr){
             if (leftIndex >= rightIndex) {
                 break
             } else {
-                swapInArray(leftIndex, rightIndex)
+              swapInArr(arr, leftIndex, rightIndex)
             }
         }
 
-        swapInArray(leftIndex, pivotIndex)
+        swapInArr(arr,leftIndex, pivotIndex)
         return leftIndex
     }
 
@@ -53,4 +53,4 @@ function quickSort(arr){
 }
 
 
-console.log('quickSort   ', quickSort([9,8,7,6,5,4,3,2,1,0,-1,-2]))
+module.exports = quickSortArray;
